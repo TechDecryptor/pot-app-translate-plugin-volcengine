@@ -1,4 +1,4 @@
-# Pot-App 火山翻译插件 (无需配置，直接使用)
+# Pot-App [火山翻译](https://translate.volcengine.com/) 插件 (无需配置，直接使用)
 
 ## 支持平台
 
