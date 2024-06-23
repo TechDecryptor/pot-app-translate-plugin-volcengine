@@ -1,5 +1,5 @@
 {
-  "id": "[plugin].com.TechDecryptor.volcengine",
+  "id": "plugin.com.TechDecryptor.volcengine",
   "plugin_type": "translate",
   "icon": "icon.svg",
   "display": "火山翻译",
